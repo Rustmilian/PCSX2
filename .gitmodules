@@ -1,0 +1,8 @@
+[submodule "memcards"]
+	path = memcards
+	url = git@github.com:Rustmilian/memcards.git
+	branch = main
+[submodule "bios"]
+	path = bios
+	url = git@github.com:Rustmilian/bios.git
+	branch = main
